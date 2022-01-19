@@ -1,6 +1,6 @@
 # gerenciador-servlet
 
-Projeto de um servlet gerenciador simples de cadastro de empresas.
+Projeto - construção de um servlet gerenciador simples de cadastro de empresas.
 
 1- Mapeamento de requisições HTTP 
 
